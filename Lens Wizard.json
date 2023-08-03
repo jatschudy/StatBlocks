@@ -1,0 +1,56 @@
+{
+    "id":"",
+    "tokenId":"",
+    "initiative":0,
+    "currentHP":88,
+    "isActive":1,
+    "unitName":"Lens Wizard",
+    "maxHP":"88",
+    "armorClass":12,
+    "unitType":"Humanoid",
+    "unitSize":"Medium",
+    "strScore":7,
+    "strSave":-2,
+    "dexScore":14,
+    "dexSave":2,
+    "conScore":12,
+    "conSave":1,
+    "intScore":20,
+    "intSave":5,
+    "wisScore":16,
+    "wisSave":3,
+    "chaScore":12,
+    "chaSave":1,
+    "damageVulnerabilities":"Bludgeoning.",
+    "damageImmunities":"None.",
+    "damageResistances":"None.",
+    "conditionImmunities":"None.",
+    "challengeRating":"7CR.",
+    "experiencePoints":0,
+    "alignment":"Lawful Neutral",
+    "standardActions":[],
+    "legendaryActions":[],
+    "specialAbilities":[{"name":"Telescopic Vision","desc":"Advantage on all perception checks relying on sight."}],
+    "spellActions":[
+        {"name":"Shocking Grasp","desc":"Cantrip: +8 to hit, reach 5 ft., one target. Hit: 11 (2d8) lightning damage."},
+        {"name":"Firebolt","desc":"Cantrip: +9 to hit, range 120 ft., one target. Hit: 12 (2d10) fire damage."},
+        {"name":"Cantrips","desc":"Mage Hand, Message and Light"}
+    ],
+    "reactions":[],
+    "spellList":[
+        {"name":"1st Level (4 slots)","desc":"Detect Magic, Magic Missile, Shield"}
+        {"name":"2nd Level (3 slots)","desc":"Invisibility, Levitate"}
+        {"name":"3rd Level (3 slots)","desc":"Counterspell, Dispel Magic, Fly, Lightning Bolt, Tongues"}
+        {"name":"4th Level (3 slots)","desc":"Arcane Eye, Fabricate, Resilient Sphere"}
+        {"name":"5th Level (2 slots)","desc":"Hold Monster, Telekenesis"}
+    ],
+    "senses":"No unique senses.",
+    "languages":"Astrologic,Common,Primordial",
+    "speedWalk":30,
+    "speedFly":0,
+    "speedClimb":30,
+    "speedBurrow":0,
+    "speedSwim":0,
+    "dataSlug":"",
+    "favorite":false
+}
