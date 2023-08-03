@@ -38,10 +38,9 @@
     ],
     "reactions":[],
     "spellList":[
-        {"name":"1st Level (4 slots)","desc":"Detect Magic, Magic Missile, Shield"}
-        {"name":"2nd Level (3 slots)","desc":"Invisibility, Levitate"}
-        {"name":"3rd Level (3 slots)","desc":"Counterspell, Dispel Magic, Fly, Lightning Bolt, Tongues"}
-        {"name":"4th Level (3 slots)","desc":"Arcane Eye, Fabricate, Resilient Sphere"}
+        {"name":"1st Level (4 slots)","desc":"Detect Magic, Magic Missile, Shield"},
+        {"name":"2nd Level (3 slots)","desc":"Invisibility, Levitate"},
+        {"name":"3rd Level (3 slots)","desc":"Counterspell, Dispel Magic, Fly, Lightning Bolt, Tongues"},
         {"name":"5th Level (2 slots)","desc":"Hold Monster, Telekenesis"}
     ],
     "senses":"No unique senses.",
